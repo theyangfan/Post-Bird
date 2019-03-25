@@ -1,0 +1,9 @@
+{
+	"pluginName":{"message":"Post Bird"},
+	"pluginDesc":{"message":"Share messages with your other devices."},
+	"userNameTitle":{"message":"User name"},
+	"userNameHint":{"message":"User name"},
+	"connectionkeyTitle":{"message":"Connection key"},
+	"connectionkeyHint":{"message":"Letters Numbers and Underscores"},
+	"save":{"message":"Save"}
+}

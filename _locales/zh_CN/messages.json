@@ -1,0 +1,9 @@
+{
+	"pluginName":{"message":"邮鸟"},
+	"pluginDesc":{"message":"向其他设备分享信息。"},
+	"userNameTitle":{"message":"用户名"},
+	"userNameHint":{"message":"用户名"},
+	"connectionkeyTitle":{"message":"连接密钥"},
+	"connectionkeyHint":{"message":"字母 数字和下划线"},
+	"save":{"message":"保存"}
+}
